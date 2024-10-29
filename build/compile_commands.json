@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VS/.vscode/build/MyDynamicLibrary",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMYLIBRARY_EXPORTS -DMyDynamicLibrary_EXPORTS  -g -o CMakeFiles\\MyDynamicLibrary.dir\\MyLibrary.cpp.obj -c D:\\VS\\.vscode\\.vscode\\MyProject\\MyDynamicLibrary\\MyLibrary.cpp",
+  "file": "D:/VS/.vscode/.vscode/MyProject/MyDynamicLibrary/MyLibrary.cpp",
+  "output": "MyDynamicLibrary/CMakeFiles/MyDynamicLibrary.dir/MyLibrary.cpp.obj"
+},
+{
+  "directory": "D:/VS/.vscode/build/MyMainApp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/MyMainApp.dir/includes_CXX.rsp -g -o CMakeFiles\\MyMainApp.dir\\Main.cpp.obj -c D:\\VS\\.vscode\\.vscode\\MyProject\\MyMainApp\\Main.cpp",
+  "file": "D:/VS/.vscode/.vscode/MyProject/MyMainApp/Main.cpp",
+  "output": "MyMainApp/CMakeFiles/MyMainApp.dir/Main.cpp.obj"
+}
+]

@@ -1,0 +1,8 @@
+D:/VS/.vscode/build/CMakeFiles/edit_cache.dir
+D:/VS/.vscode/build/CMakeFiles/rebuild_cache.dir
+D:/VS/.vscode/build/MyDynamicLibrary/CMakeFiles/MyDynamicLibrary.dir
+D:/VS/.vscode/build/MyDynamicLibrary/CMakeFiles/edit_cache.dir
+D:/VS/.vscode/build/MyDynamicLibrary/CMakeFiles/rebuild_cache.dir
+D:/VS/.vscode/build/MyMainApp/CMakeFiles/MyMainApp.dir
+D:/VS/.vscode/build/MyMainApp/CMakeFiles/edit_cache.dir
+D:/VS/.vscode/build/MyMainApp/CMakeFiles/rebuild_cache.dir
